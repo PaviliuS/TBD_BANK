@@ -1,0 +1,12 @@
+D:\Microsoft VS Projects\TBD_BANK\bin\Debug\Database_BANK.mdf
+D:\Microsoft VS Projects\TBD_BANK\bin\Debug\Database_BANK_log.ldf
+D:\Microsoft VS Projects\TBD_BANK\bin\Debug\TBD_BANK.exe.config
+D:\Microsoft VS Projects\TBD_BANK\bin\Debug\TBD_BANK.exe
+D:\Microsoft VS Projects\TBD_BANK\bin\Debug\TBD_BANK.pdb
+D:\Microsoft VS Projects\TBD_BANK\obj\Debug\TBD_BANK.csprojAssemblyReference.cache
+D:\Microsoft VS Projects\TBD_BANK\obj\Debug\TBD_BANK.Form1.resources
+D:\Microsoft VS Projects\TBD_BANK\obj\Debug\TBD_BANK.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_BANK\obj\Debug\TBD_BANK.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_BANK\obj\Debug\TBD_BANK.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_BANK\obj\Debug\TBD_BANK.exe
+D:\Microsoft VS Projects\TBD_BANK\obj\Debug\TBD_BANK.pdb
